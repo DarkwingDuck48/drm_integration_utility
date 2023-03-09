@@ -1,6 +1,7 @@
-# HFM -> DRM File converter
-[![Testing](https://github.com/DarkwingDuck48/drm_hfm_metadata_file_converter/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/DarkwingDuck48/drm_hfm_metadata_file_converter/actions/workflows/rust.yml)
+# Oracle DRM integration utilty
 
-## Описание
-Конвертер APP файлов, выгруженных из приложения Oracle HFM для последующей загрузки в DRM.
+## Parts of repository
+
+1. APP converter to DRM upload file
+2. XML generator for properties
 
